@@ -97,6 +97,15 @@
       }
       mysqli_close($db_conn);
     ?>
+     <script type="text/javascript" src="vanilla-tilt.js"></script>
+	<script type="text/javascript">
+		VanillaTilt.init(document.querySelectorAll(".movieBox"), {
+			max: 25,
+			speed: 400,
+			 glare:true,
+			 "max-glare":0.2, 
+		});
+		</script>
   </body>
   <footer>
     <div class="copy">

@@ -34,7 +34,7 @@
     <main>
       <div class="bar">
         <h2>Movies</h2>
-        <span class="aside"><i>...current screenings in town.</i></span>
+        <span class="aside"><i>...current screenings in city.</i></span>
       </div>
       <?php
         while ($row = mysqli_fetch_array($record)) {

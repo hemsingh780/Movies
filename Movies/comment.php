@@ -23,7 +23,7 @@
         <li class="special"><a href="buywelcome.php">Buy a Ticket</a></li>
         <li><a href="comment.php">Movie Review</a></li>
         <li><a href="history.php">Purchase History</a></li>
-        <li><a href="logout.php">Logout</a></li>
+        <li><a href="logout.php">Logout-gather</a></li>
       </ul>
     </nav>
 
